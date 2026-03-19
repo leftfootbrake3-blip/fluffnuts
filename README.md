@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fluffnutspro_logo.png" width="620" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(236, 72, 153, 0.4);">
+</p>
+
 # 🐨 Fluffnuts — Floating Vibe Coder
 
 **The cutest pink AI companion for newbie coders.**
