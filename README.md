@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fluffnutspro_logo.png" width="820" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(236, 72, 153, 0.4);">
+  <img src="fluffnutspro_logo.png" width="800" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(236, 72, 153, 0.4);">
 </p>
 
 # 🐨 Fluffnuts — Floating Vibe Coder
