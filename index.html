@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fluffnuts — Floating Vibe Coder 🐨</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Comic+Neue:wght@700&display=swap');
+        body { font-family: 'Poppins', sans-serif; }
+        .fluff-window {
+            box-shadow: 0 35px 60px -15px rgb(236 72 153 / 0.6);
+        }
+        .logo-glow { filter: drop-shadow(0 0 15px #ec4899); }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-pink-100 via-purple-100 to-pink-100 min-h-screen flex items-center justify-center p-6">
+    <div id="window" class="fluff-window w-full max-w-md bg-white rounded-3xl overflow-hidden border-8 border-pink-500">
+        
+        <!-- Header -->
+        <div class="bg-pink-500 text-white px-6 py-4 flex items-center gap-4">
+            <img src="fluffnutspro_logo.png" alt="Fluffnuts" class="logo-glow w-14 h-14 rounded-2xl">
+            <div>
+                <h1 class="text-4xl font-bold tracking-tighter">Fluffnuts</h1>
+                <p class="text-pink-200 text-sm -mt-1">floating vibe coder</p>
+            </div>
+        </div>
+
+        <!-- Body -->
+        <div class="p-6 space-y-6">
+            <textarea id="vibeInput" rows="3"
+                class="w-full p-5 border-2 border-pink-200 rounded-3xl focus:border-pink-500 focus:ring-4 focus:ring-pink-200 outline-none text-lg resize-none"
+                placeholder="Describe the vibe... e.g. make a todo app feel like a game"></textarea>
+
+            <!-- Quick Vibe Buttons -->
+            <div class="grid grid-cols-2 gap-3">
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">🐨 Beginner Friendly</button>
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">✨ Clean & Modern</button>
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">⚡ Fast & Light</button>
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">📝 Add Comments</button>
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">🌸 Make it Cute</button>
+                <button onclick="quickVibe(this)" class="bg-white border-2 border-pink-300 hover:bg-pink-100 hover:border-pink-500 py-4 rounded-3xl font-medium text-pink-600">🔄 Refactor This</button>
+            </div>
+
+            <!-- Intent Capture -->
+            <button onclick="captureIntent()" 
+                class="w-full py-3 border-2 border-dashed border-pink-400 text-pink-600 rounded-3xl hover:bg-pink-50 font-medium">
+                📋 Capture Intent from Clipboard
+            </button>
+
+            <button onclick="generateCode()" 
+                class="w-full py-6 bg-gradient-to-r from-pink-500 to-rose-500 text-white text-2xl font-bold rounded-3xl shadow-xl hover:scale-105 active:scale-95 transition-all">
+                FLUFF IT UP! 🦘
+            </button>
+
+            <!-- Output -->
+            <div id="outputArea" class="hidden bg-gray-950 text-emerald-300 p-6 rounded-3xl font-mono text-sm leading-relaxed overflow-auto max-h-80">
+                <pre id="generatedCode"></pre>
+                <button onclick="copyCode()" 
+                    class="mt-4 w-full bg-pink-600 hover:bg-pink-700 text-white py-3 rounded-2xl text-sm font-medium">
+                    📋 Copy Code
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function quickVibe(btn) {
+            document.getElementById('vibeInput').value = btn.textContent.trim();
+        }
+
+        async function captureIntent() {
+            try {
+                const text = await navigator.clipboard.readText();
+                document.getElementById('vibeInput').value = "Make this feel like: " + text.substring(0, 80) + "...";
+                alert("✅ Intent captured from clipboard!");
+            } catch(e) {
+                alert("Please copy some code/text first!");
+            }
+        }
+
+        function generateCode() {
+            const vibe = document.getElementById('vibeInput').value || "simple beginner project";
+            const codeArea = document.getElementById('generatedCode');
+            const output = document.getElementById('outputArea');
+            
+            codeArea.textContent = `// 🐨 Fluffnuts generated this for you!\n// Vibe: ${vibe}\n\n// Copy & paste into your project\n\nfunction FluffyApp() {\n  console.log("✨ Hello from Fluffnuts!");\n  \n  // Your super simple, beginner-friendly code starts here...\n  return "Everything feels better when it's fluffy! 🦘";\n}\n\n// Hit the button again with a new vibe to get fresh code!`;
+            output.classList.remove('hidden');
+        }
+
+        function copyCode() {
+            const code = document.getElementById('generatedCode').textContent;
+            navigator.clipboard.writeText(code);
+            alert("✅ Code copied! Paste it into your editor.");
+        }
+
+        // Bonus: Make the whole window draggable (feels like real floating app)
+        const win = document.getElementById('window');
+        let isDragging = false, x, y;
+        win.addEventListener('mousedown', e => {
+            if (e.target.tagName === 'BUTTON' || e.target.tagName === 'TEXTAREA') return;
+            isDragging = true;
+            x = e.clientX - win.offsetLeft;
+            y = e.clientY - win.offsetTop;
+        });
+        document.addEventListener('mousemove', e => {
+            if (!isDragging) return;
+            win.style.left = (e.clientX - x) + 'px';
+            win.style.top = (e.clientY - y) + 'px';
+            win.style.position = 'absolute';
+        });
+        document.addEventListener('mouseup', () => isDragging = false);
+    </script>
+</body>
+</html>
