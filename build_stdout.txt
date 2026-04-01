@@ -1,0 +1,1187 @@
+running build
+running build_exe
+running egg_info
+writing FluffnutsPro.egg-info\PKG-INFO
+writing dependency_links to FluffnutsPro.egg-info\dependency_links.txt
+writing top-level names to FluffnutsPro.egg-info\top_level.txt
+reading manifest file 'FluffnutsPro.egg-info\SOURCES.txt'
+writing manifest file 'FluffnutsPro.egg-info\SOURCES.txt'
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\freeze_core\legacy\win32gui-cpython-311-win_amd64.exe -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\FluffnutsPro.exe
+copying C:\Program Files\Python311\python311.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\python311.dll
+copying C:\Users\aspee\AppData\Local\Temp\cxfreeze-xc6eohp5\frozen_application_license.txt -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\frozen_application_license.txt
+Stamped: D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\FluffnutsPro.exe
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib
+copying data from package PIL...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_avif.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_avif.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imaging.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imaging.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingcms.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imagingcms.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingft.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imagingft.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingmath.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imagingmath.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingmorph.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imagingmorph.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingtk.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_imagingtk.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_webp.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\PIL\_webp.cp311-win_amd64.pyd
+copying data from package asyncio...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\asyncio
+copying data from package blinker...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\blinker
+copying data from package click...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\click
+copying data from package collections...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\collections
+copying data from package colorama...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\colorama
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\colorama\tests
+copying data from package concurrent...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\concurrent
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\concurrent\futures
+copying data from package cryptography...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\asn1
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\backends
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\backends\openssl
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\bindings
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\bindings\openssl
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\bindings\_rust
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\bindings\_rust\openssl
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\_rust.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\bindings\_rust.pyd
+copying C:\Program Files\Python311\python3.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\python3.dll
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\decrepit
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\decrepit\ciphers
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives\asymmetric
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives\ciphers
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives\kdf
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives\serialization
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\hazmat\primitives\twofactor
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\cryptography\x509
+copying data from package ctypes...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\ctypes
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\ctypes\test
+copying data from package email...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\email
+copying C:\Program Files\Python311\Lib\email\architecture.rst -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\email\architecture.rst
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\email\mime
+copying data from package encodings...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\encodings
+copying data from package flask...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\flask
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\flask\json
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\flask\sansio
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\sansio\README.md -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\flask\sansio\README.md
+copying data from package html...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\html
+copying data from package http...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\http
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\importlib
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\importlib\metadata
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\importlib\resources
+copying data from package itsdangerous...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\itsdangerous
+copying data from package jinja2...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\jinja2
+copying data from package json...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\json
+copying data from package keyboard...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\keyboard
+copying data from package logging...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\logging
+copying data from package markupsafe...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\markupsafe
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\markupsafe\_speedups.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\markupsafe\_speedups.cp311-win_amd64.pyd
+copying data from package multiprocessing...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\multiprocessing
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\multiprocessing\dummy
+copying data from package numpy...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\char
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\core
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\ctypeslib
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\doc
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\fft
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\_pocketfft_umath.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\fft\_pocketfft_umath.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\_pocketfft_umath.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\fft\_pocketfft_umath.cp311-win_amd64.pyd
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\lib
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\linalg
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\lapack_lite.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\linalg\lapack_lite.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\lapack_lite.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\linalg\lapack_lite.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\_umath_linalg.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\linalg\_umath_linalg.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\_umath_linalg.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\linalg\_umath_linalg.cp311-win_amd64.pyd
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\ma
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\API_CHANGES.txt -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\ma\API_CHANGES.txt
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\LICENSE -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\ma\LICENSE
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\README.rst -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\ma\README.rst
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\matrixlib
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\polynomial
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\bit_generator.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\bit_generator.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\bit_generator.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\bit_generator.cp311-win_amd64.pyd
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\lib\npyrandom.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\lib\npyrandom.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\LICENSE.md -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\LICENSE.md
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\mtrand.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\mtrand.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\mtrand.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\mtrand.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_bounded_integers.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_bounded_integers.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_bounded_integers.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_bounded_integers.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_common.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_common.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_common.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_common.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_generator.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_generator.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_generator.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_generator.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_mt19937.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_mt19937.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_mt19937.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_mt19937.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_pcg64.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_pcg64.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_pcg64.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_pcg64.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_philox.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_philox.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_philox.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_philox.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_sfc64.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_sfc64.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_sfc64.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\random\_sfc64.cp311-win_amd64.pyd
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\rec
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\strings
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\typing
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\astype_copy.pkl -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\astype_copy.pkl
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\recarray_from_file.fits -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\recarray_from_file.fits
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arccos.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arccosh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arccosh.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arcsin.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arcsin.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arcsinh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arcsinh.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arctan.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arctan.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-arctanh.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-cbrt.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-cos.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-cos.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-cosh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-cosh.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-exp.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-exp.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-exp2.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-exp2.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-expm1.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-expm1.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-log.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-log.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-log10.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-log10.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-log1p.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-log1p.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-log2.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-log2.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-README.txt -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-README.txt
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-sin.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-sin.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-sinh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-sinh.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-tan.csv
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\data\umath-validation-set-tanh.csv
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\examples
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\examples\cython
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\examples\cython\meson.build -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\examples\cython\meson.build
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\examples\limited_api
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\tests\examples\limited_api\meson.build -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\tests\examples\limited_api\meson.build
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_tests.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_multiarray_tests.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_tests.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_multiarray_tests.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_umath.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_multiarray_umath.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_umath.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_multiarray_umath.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_operand_flag_tests.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_operand_flag_tests.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_operand_flag_tests.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_operand_flag_tests.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_rational_tests.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_rational_tests.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_rational_tests.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_rational_tests.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_simd.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_simd.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_simd.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_simd.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_struct_ufunc_tests.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_struct_ufunc_tests.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_struct_ufunc_tests.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_struct_ufunc_tests.cp311-win_amd64.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_umath_tests.cp311-win_amd64.lib -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_umath_tests.cp311-win_amd64.lib
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_umath_tests.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_core\_umath_tests.cp311-win_amd64.pyd
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_typing
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy\_utils
+copying data from package pydoc_data...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\pydoc_data
+copying C:\Program Files\Python311\Lib\pydoc_data\_pydoc.css -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\pydoc_data\_pydoc.css
+copying data from package pystray...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\pystray
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\pystray\_util
+copying data from package re...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\re
+copying data from package sqlite3...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\sqlite3
+copying data from package urllib...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\urllib
+copying data from package werkzeug...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\datastructures
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\console.png -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\console.png
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\debugger.js -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\debugger.js
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\ICON_LICENSE.md -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\ICON_LICENSE.md
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\less.png -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\less.png
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\more.png -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\more.png
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\shared\style.css -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\debug\shared\style.css
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\middleware
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\routing
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\sansio
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\werkzeug\wrappers
+copying data from package xml...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xml
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xml\dom
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xml\etree
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xml\parsers
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xml\sax
+copying data from package xmlrpc...
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\xmlrpc
+copying C:\Program Files\Python311\DLLs\_asyncio.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_asyncio.pyd
+copying C:\Program Files\Python311\DLLs\_bz2.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_bz2.pyd
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\_cffi_backend.cp311-win_amd64.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_cffi_backend.cp311-win_amd64.pyd
+copying C:\Program Files\Python311\DLLs\_ctypes.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_ctypes.pyd
+copying C:\Program Files\Python311\DLLs\libffi-8.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\libffi-8.dll
+copying C:\Program Files\Python311\DLLs\_decimal.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_decimal.pyd
+copying C:\Program Files\Python311\DLLs\_elementtree.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_elementtree.pyd
+copying C:\Program Files\Python311\DLLs\_hashlib.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_hashlib.pyd
+copying C:\Program Files\Python311\DLLs\libcrypto-3.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\libcrypto-3.dll
+copying C:\Program Files\Python311\DLLs\_lzma.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_lzma.pyd
+copying C:\Program Files\Python311\DLLs\_multiprocessing.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_multiprocessing.pyd
+copying C:\Program Files\Python311\DLLs\_overlapped.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_overlapped.pyd
+copying C:\Program Files\Python311\DLLs\_queue.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_queue.pyd
+copying C:\Program Files\Python311\DLLs\_socket.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_socket.pyd
+copying C:\Program Files\Python311\DLLs\_sqlite3.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_sqlite3.pyd
+copying C:\Program Files\Python311\DLLs\sqlite3.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\sqlite3.dll
+copying C:\Program Files\Python311\DLLs\_ssl.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_ssl.pyd
+copying C:\Program Files\Python311\DLLs\libssl-3.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\libssl-3.dll
+copying C:\Program Files\Python311\DLLs\_uuid.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\_uuid.pyd
+copying C:\Program Files\Python311\DLLs\pyexpat.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\pyexpat.pyd
+copying C:\Program Files\Python311\DLLs\select.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\select.pyd
+copying C:\Program Files\Python311\DLLs\unicodedata.pyd -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\unicodedata.pyd
+copying D:\App DEVELOPMENT\FLUFFNUTS PRO\fluffnutspro_logo.png -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\FluffnutsPro_logo.png
+copying D:\App DEVELOPMENT\FLUFFNUTS PRO\munch.wav -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\munch.wav
+copying D:\App DEVELOPMENT\FLUFFNUTS PRO\FLUFFNUTSPro.ico -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\Fluffnutspro.ico
+creating directory D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy.libs
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy.libs\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy.libs\libscipy_openblas64_-4bb64bb73b19ae7523581172b5c4a821.dll
+copying C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy.libs\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll -> D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\numpy.libs\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll
+writing zip file D:\App DEVELOPMENT\FLUFFNUTS PRO\dist\lib\library.zip
+
+  Name                      File
+  ----                      ----
+m BUILD_CONSTANTS           C:\Users\aspee\AppData\Local\Temp\cxfreeze-xc6eohp5\BUILD_CONSTANTS.py
+P PIL                       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\__init__.py
+m PIL.AvifImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\AvifImagePlugin.py
+m PIL.BdfFontFile           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\BdfFontFile.py
+m PIL.BlpImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\BlpImagePlugin.py
+m PIL.BmpImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\BmpImagePlugin.py
+m PIL.BufrStubImagePlugin   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\BufrStubImagePlugin.py
+m PIL.ContainerIO           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ContainerIO.py
+m PIL.CurImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\CurImagePlugin.py
+m PIL.DcxImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\DcxImagePlugin.py
+m PIL.DdsImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\DdsImagePlugin.py
+m PIL.EpsImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\EpsImagePlugin.py
+m PIL.ExifTags              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ExifTags.py
+m PIL.FitsImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\FitsImagePlugin.py
+m PIL.FliImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\FliImagePlugin.py
+m PIL.FontFile              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\FontFile.py
+m PIL.FpxImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\FpxImagePlugin.py
+m PIL.FtexImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\FtexImagePlugin.py
+m PIL.GbrImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GbrImagePlugin.py
+m PIL.GdImageFile           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GdImageFile.py
+m PIL.GifImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GifImagePlugin.py
+m PIL.GimpGradientFile      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GimpGradientFile.py
+m PIL.GimpPaletteFile       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GimpPaletteFile.py
+m PIL.GribStubImagePlugin   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\GribStubImagePlugin.py
+m PIL.Hdf5StubImagePlugin   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\Hdf5StubImagePlugin.py
+m PIL.IcnsImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\IcnsImagePlugin.py
+m PIL.IcoImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\IcoImagePlugin.py
+m PIL.ImImagePlugin         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImImagePlugin.py
+m PIL.Image                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\Image.py
+m PIL.ImageChops            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageChops.py
+m PIL.ImageCms              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageCms.py
+m PIL.ImageColor            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageColor.py
+m PIL.ImageDraw             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageDraw.py
+m PIL.ImageDraw2            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageDraw2.py
+m PIL.ImageEnhance          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageEnhance.py
+m PIL.ImageFile             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageFile.py
+m PIL.ImageFilter           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageFilter.py
+m PIL.ImageFont             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageFont.py
+m PIL.ImageGrab             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageGrab.py
+m PIL.ImageMath             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageMath.py
+m PIL.ImageMode             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageMode.py
+m PIL.ImageMorph            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageMorph.py
+m PIL.ImageOps              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageOps.py
+m PIL.ImagePalette          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImagePalette.py
+m PIL.ImagePath             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImagePath.py
+m PIL.ImageQt               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageQt.py
+m PIL.ImageSequence         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageSequence.py
+m PIL.ImageShow             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageShow.py
+m PIL.ImageStat             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageStat.py
+m PIL.ImageText             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageText.py
+m PIL.ImageTk               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageTk.py
+m PIL.ImageTransform        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageTransform.py
+m PIL.ImageWin              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImageWin.py
+m PIL.ImtImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\ImtImagePlugin.py
+m PIL.IptcImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\IptcImagePlugin.py
+m PIL.Jpeg2KImagePlugin     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\Jpeg2KImagePlugin.py
+m PIL.JpegImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\JpegImagePlugin.py
+m PIL.JpegPresets           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\JpegPresets.py
+m PIL.McIdasImagePlugin     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\McIdasImagePlugin.py
+m PIL.MicImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\MicImagePlugin.py
+m PIL.MpegImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\MpegImagePlugin.py
+m PIL.MpoImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\MpoImagePlugin.py
+m PIL.MspImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\MspImagePlugin.py
+m PIL.PSDraw                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PSDraw.py
+m PIL.PaletteFile           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PaletteFile.py
+m PIL.PalmImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PalmImagePlugin.py
+m PIL.PcdImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PcdImagePlugin.py
+m PIL.PcfFontFile           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PcfFontFile.py
+m PIL.PcxImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PcxImagePlugin.py
+m PIL.PdfImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PdfImagePlugin.py
+m PIL.PdfParser             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PdfParser.py
+m PIL.PixarImagePlugin      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PixarImagePlugin.py
+m PIL.PngImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PngImagePlugin.py
+m PIL.PpmImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PpmImagePlugin.py
+m PIL.PsdImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\PsdImagePlugin.py
+m PIL.QoiImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\QoiImagePlugin.py
+m PIL.SgiImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\SgiImagePlugin.py
+m PIL.SpiderImagePlugin     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\SpiderImagePlugin.py
+m PIL.SunImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\SunImagePlugin.py
+m PIL.TarIO                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\TarIO.py
+m PIL.TgaImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\TgaImagePlugin.py
+m PIL.TiffImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\TiffImagePlugin.py
+m PIL.TiffTags              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\TiffTags.py
+m PIL.WalImageFile          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\WalImageFile.py
+m PIL.WebPImagePlugin       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\WebPImagePlugin.py
+m PIL.WmfImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\WmfImagePlugin.py
+m PIL.XVThumbImagePlugin    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\XVThumbImagePlugin.py
+m PIL.XbmImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\XbmImagePlugin.py
+m PIL.XpmImagePlugin        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\XpmImagePlugin.py
+m PIL.__main__              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\__main__.py
+m PIL._avif                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_avif.cp311-win_amd64.pyd
+m PIL._binary               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_binary.py
+m PIL._deprecate            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_deprecate.py
+m PIL._imaging              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imaging.cp311-win_amd64.pyd
+m PIL._imagingcms           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingcms.cp311-win_amd64.pyd
+m PIL._imagingft            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingft.cp311-win_amd64.pyd
+m PIL._imagingmath          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingmath.cp311-win_amd64.pyd
+m PIL._imagingmorph         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingmorph.cp311-win_amd64.pyd
+m PIL._imagingtk            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_imagingtk.cp311-win_amd64.pyd
+m PIL._tkinter_finder       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_tkinter_finder.py
+m PIL._typing               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_typing.py
+m PIL._util                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_util.py
+m PIL._version              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_version.py
+m PIL._webp                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\_webp.cp311-win_amd64.pyd
+m PIL.features              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\features.py
+m PIL.report                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\PIL\report.py
+m __future__                C:\Program Files\Python311\Lib\__future__.py
+m __init__fluffnutspro      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\freeze_core\initscripts\console.py
+m __main__fluffnutspro      FluffnutsPro.py
+m __startup__               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\freeze_core\initscripts\__startup__.py
+m _abc                      
+m _ast                      
+m _asyncio                  C:\Program Files\Python311\DLLs\_asyncio.pyd
+m _bisect                   
+m _blake2                   
+m _bz2                      C:\Program Files\Python311\DLLs\_bz2.pyd
+m _cffi_backend             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\_cffi_backend.cp311-win_amd64.pyd
+m _codecs                   
+m _codecs_cn                
+m _codecs_hk                
+m _codecs_iso2022           
+m _codecs_jp                
+m _codecs_kr                
+m _codecs_tw                
+m _collections              
+m _collections_abc          C:\Program Files\Python311\Lib\_collections_abc.py
+m _compat_pickle            C:\Program Files\Python311\Lib\_compat_pickle.py
+m _compression              C:\Program Files\Python311\Lib\_compression.py
+m _contextvars              
+m _csv                      
+m _ctypes                   C:\Program Files\Python311\DLLs\_ctypes.pyd
+m _datetime                 
+m _decimal                  C:\Program Files\Python311\DLLs\_decimal.pyd
+m _elementtree              C:\Program Files\Python311\DLLs\_elementtree.pyd
+m _functools                
+m _hashlib                  C:\Program Files\Python311\DLLs\_hashlib.pyd
+m _heapq                    
+m _imp                      
+m _io                       
+m _json                     
+m _locale                   
+m _lzma                     C:\Program Files\Python311\DLLs\_lzma.pyd
+m _md5                      
+m _multibytecodec           
+m _multiprocessing          C:\Program Files\Python311\DLLs\_multiprocessing.pyd
+m _opcode                   
+m _operator                 
+m _overlapped               C:\Program Files\Python311\DLLs\_overlapped.pyd
+m _pickle                   
+m _queue                    C:\Program Files\Python311\DLLs\_queue.pyd
+m _random                   
+m _sha1                     
+m _sha256                   
+m _sha3                     
+m _sha512                   
+m _signal                   
+m _socket                   C:\Program Files\Python311\DLLs\_socket.pyd
+m _sqlite3                  C:\Program Files\Python311\DLLs\_sqlite3.pyd
+m _sre                      
+m _ssl                      C:\Program Files\Python311\DLLs\_ssl.pyd
+m _stat                     
+m _statistics               
+m _string                   
+m _strptime                 C:\Program Files\Python311\Lib\_strptime.py
+m _struct                   
+m _thread                   
+m _threading_local          C:\Program Files\Python311\Lib\_threading_local.py
+m _tokenize                 
+m _tracemalloc              
+m _typing                   
+m _uuid                     C:\Program Files\Python311\DLLs\_uuid.pyd
+m _warnings                 
+m _weakref                  
+m _weakrefset               C:\Program Files\Python311\Lib\_weakrefset.py
+m _winapi                   
+m abc                       C:\Program Files\Python311\Lib\abc.py
+m argparse                  C:\Program Files\Python311\Lib\argparse.py
+m array                     
+m ast                       C:\Program Files\Python311\Lib\ast.py
+P asyncio                   C:\Program Files\Python311\Lib\asyncio\__init__.py
+m asyncio.__main__          C:\Program Files\Python311\Lib\asyncio\__main__.py
+m asyncio.base_events       C:\Program Files\Python311\Lib\asyncio\base_events.py
+m asyncio.base_futures      C:\Program Files\Python311\Lib\asyncio\base_futures.py
+m asyncio.base_subprocess   C:\Program Files\Python311\Lib\asyncio\base_subprocess.py
+m asyncio.base_tasks        C:\Program Files\Python311\Lib\asyncio\base_tasks.py
+m asyncio.constants         C:\Program Files\Python311\Lib\asyncio\constants.py
+m asyncio.coroutines        C:\Program Files\Python311\Lib\asyncio\coroutines.py
+m asyncio.events            C:\Program Files\Python311\Lib\asyncio\events.py
+m asyncio.exceptions        C:\Program Files\Python311\Lib\asyncio\exceptions.py
+m asyncio.format_helpers    C:\Program Files\Python311\Lib\asyncio\format_helpers.py
+m asyncio.futures           C:\Program Files\Python311\Lib\asyncio\futures.py
+m asyncio.locks             C:\Program Files\Python311\Lib\asyncio\locks.py
+m asyncio.log               C:\Program Files\Python311\Lib\asyncio\log.py
+m asyncio.mixins            C:\Program Files\Python311\Lib\asyncio\mixins.py
+m asyncio.proactor_events   C:\Program Files\Python311\Lib\asyncio\proactor_events.py
+m asyncio.protocols         C:\Program Files\Python311\Lib\asyncio\protocols.py
+m asyncio.queues            C:\Program Files\Python311\Lib\asyncio\queues.py
+m asyncio.runners           C:\Program Files\Python311\Lib\asyncio\runners.py
+m asyncio.selector_events   C:\Program Files\Python311\Lib\asyncio\selector_events.py
+m asyncio.sslproto          C:\Program Files\Python311\Lib\asyncio\sslproto.py
+m asyncio.staggered         C:\Program Files\Python311\Lib\asyncio\staggered.py
+m asyncio.streams           C:\Program Files\Python311\Lib\asyncio\streams.py
+m asyncio.subprocess        C:\Program Files\Python311\Lib\asyncio\subprocess.py
+m asyncio.taskgroups        C:\Program Files\Python311\Lib\asyncio\taskgroups.py
+m asyncio.tasks             C:\Program Files\Python311\Lib\asyncio\tasks.py
+m asyncio.threads           C:\Program Files\Python311\Lib\asyncio\threads.py
+m asyncio.timeouts          C:\Program Files\Python311\Lib\asyncio\timeouts.py
+m asyncio.transports        C:\Program Files\Python311\Lib\asyncio\transports.py
+m asyncio.trsock            C:\Program Files\Python311\Lib\asyncio\trsock.py
+m asyncio.unix_events       C:\Program Files\Python311\Lib\asyncio\unix_events.py
+m asyncio.windows_events    C:\Program Files\Python311\Lib\asyncio\windows_events.py
+m asyncio.windows_utils     C:\Program Files\Python311\Lib\asyncio\windows_utils.py
+m atexit                    
+m base64                    C:\Program Files\Python311\Lib\base64.py
+m binascii                  
+m bisect                    C:\Program Files\Python311\Lib\bisect.py
+P blinker                   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\blinker\__init__.py
+m blinker._utilities        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\blinker\_utilities.py
+m blinker.base              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\blinker\base.py
+m builtins                  
+m bz2                       C:\Program Files\Python311\Lib\bz2.py
+m calendar                  C:\Program Files\Python311\Lib\calendar.py
+P click                     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\__init__.py
+m click._compat             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\_compat.py
+m click._termui_impl        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\_termui_impl.py
+m click._textwrap           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\_textwrap.py
+m click._utils              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\_utils.py
+m click._winconsole         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\_winconsole.py
+m click.core                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\core.py
+m click.decorators          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\decorators.py
+m click.exceptions          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\exceptions.py
+m click.formatting          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\formatting.py
+m click.globals             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\globals.py
+m click.parser              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\parser.py
+m click.shell_completion    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\shell_completion.py
+m click.termui              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\termui.py
+m click.testing             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\testing.py
+m click.types               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\types.py
+m click.utils               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\click\utils.py
+m code                      C:\Program Files\Python311\Lib\code.py
+m codecs                    C:\Program Files\Python311\Lib\codecs.py
+m codeop                    C:\Program Files\Python311\Lib\codeop.py
+P collections               C:\Program Files\Python311\Lib\collections\__init__.py
+m collections.abc           C:\Program Files\Python311\Lib\collections\abc.py
+P colorama                  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\__init__.py
+m colorama.ansi             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\ansi.py
+m colorama.ansitowin32      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\ansitowin32.py
+m colorama.initialise       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\initialise.py
+m colorama.win32            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\win32.py
+m colorama.winterm          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\colorama\winterm.py
+m colorsys                  C:\Program Files\Python311\Lib\colorsys.py
+P concurrent                C:\Program Files\Python311\Lib\concurrent\__init__.py
+P concurrent.futures        C:\Program Files\Python311\Lib\concurrent\futures\__init__.py
+m concurrent.futures._base  C:\Program Files\Python311\Lib\concurrent\futures\_base.py
+m concurrent.futures.process C:\Program Files\Python311\Lib\concurrent\futures\process.py
+m concurrent.futures.thread C:\Program Files\Python311\Lib\concurrent\futures\thread.py
+m contextlib                C:\Program Files\Python311\Lib\contextlib.py
+m contextvars               C:\Program Files\Python311\Lib\contextvars.py
+m copy                      C:\Program Files\Python311\Lib\copy.py
+m copyreg                   C:\Program Files\Python311\Lib\copyreg.py
+P cryptography              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\__init__.py
+m cryptography.__about__    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\__about__.py
+m cryptography.exceptions   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\exceptions.py
+P cryptography.hazmat       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\__init__.py
+m cryptography.hazmat._oid  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\_oid.py
+P cryptography.hazmat.backends C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\backends\__init__.py
+P cryptography.hazmat.backends.openssl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\backends\openssl\__init__.py
+m cryptography.hazmat.backends.openssl.backend C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\backends\openssl\backend.py
+P cryptography.hazmat.bindings C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\__init__.py
+m cryptography.hazmat.bindings._rust C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\_rust.pyd
+P cryptography.hazmat.bindings.openssl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\openssl\__init__.py
+m cryptography.hazmat.bindings.openssl._conditional C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\openssl\_conditional.py
+m cryptography.hazmat.bindings.openssl.binding C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\bindings\openssl\binding.py
+P cryptography.hazmat.decrepit C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\decrepit\__init__.py
+P cryptography.hazmat.decrepit.ciphers C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\decrepit\ciphers\__init__.py
+m cryptography.hazmat.decrepit.ciphers.algorithms C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\decrepit\ciphers\algorithms.py
+P cryptography.hazmat.primitives C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\__init__.py
+m cryptography.hazmat.primitives._asymmetric C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\_asymmetric.py
+m cryptography.hazmat.primitives._cipheralgorithm C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\_cipheralgorithm.py
+m cryptography.hazmat.primitives._serialization C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\_serialization.py
+P cryptography.hazmat.primitives.asymmetric C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\__init__.py
+m cryptography.hazmat.primitives.asymmetric.dh C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\dh.py
+m cryptography.hazmat.primitives.asymmetric.dsa C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\dsa.py
+m cryptography.hazmat.primitives.asymmetric.ec C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\ec.py
+m cryptography.hazmat.primitives.asymmetric.ed25519 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\ed25519.py
+m cryptography.hazmat.primitives.asymmetric.ed448 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\ed448.py
+m cryptography.hazmat.primitives.asymmetric.padding C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\padding.py
+m cryptography.hazmat.primitives.asymmetric.rsa C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\rsa.py
+m cryptography.hazmat.primitives.asymmetric.types C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\types.py
+m cryptography.hazmat.primitives.asymmetric.utils C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\utils.py
+m cryptography.hazmat.primitives.asymmetric.x25519 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\x25519.py
+m cryptography.hazmat.primitives.asymmetric.x448 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\asymmetric\x448.py
+P cryptography.hazmat.primitives.ciphers C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\ciphers\__init__.py
+m cryptography.hazmat.primitives.ciphers.algorithms C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\ciphers\algorithms.py
+m cryptography.hazmat.primitives.ciphers.base C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\ciphers\base.py
+m cryptography.hazmat.primitives.ciphers.modes C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\ciphers\modes.py
+m cryptography.hazmat.primitives.constant_time C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\constant_time.py
+m cryptography.hazmat.primitives.hashes C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\hashes.py
+P cryptography.hazmat.primitives.serialization C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\serialization\__init__.py
+m cryptography.hazmat.primitives.serialization.base C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\serialization\base.py
+m cryptography.hazmat.primitives.serialization.ssh C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\hazmat\primitives\serialization\ssh.py
+m cryptography.utils        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\utils.py
+P cryptography.x509         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\__init__.py
+m cryptography.x509.base    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\base.py
+m cryptography.x509.certificate_transparency C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\certificate_transparency.py
+m cryptography.x509.extensions C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\extensions.py
+m cryptography.x509.general_name C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\general_name.py
+m cryptography.x509.name    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\name.py
+m cryptography.x509.oid     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\oid.py
+m cryptography.x509.verification C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\cryptography\x509\verification.py
+m csv                       C:\Program Files\Python311\Lib\csv.py
+P ctypes                    C:\Program Files\Python311\Lib\ctypes\__init__.py
+m ctypes._endian            C:\Program Files\Python311\Lib\ctypes\_endian.py
+m ctypes.util               C:\Program Files\Python311\Lib\ctypes\util.py
+m ctypes.wintypes           C:\Program Files\Python311\Lib\ctypes\wintypes.py
+m dataclasses               C:\Program Files\Python311\Lib\dataclasses.py
+m datetime                  C:\Program Files\Python311\Lib\datetime.py
+m decimal                   C:\Program Files\Python311\Lib\decimal.py
+m difflib                   C:\Program Files\Python311\Lib\difflib.py
+m dis                       C:\Program Files\Python311\Lib\dis.py
+P email                     C:\Program Files\Python311\Lib\email\__init__.py
+m email._encoded_words      C:\Program Files\Python311\Lib\email\_encoded_words.py
+m email._header_value_parser C:\Program Files\Python311\Lib\email\_header_value_parser.py
+m email._parseaddr          C:\Program Files\Python311\Lib\email\_parseaddr.py
+m email._policybase         C:\Program Files\Python311\Lib\email\_policybase.py
+m email.base64mime          C:\Program Files\Python311\Lib\email\base64mime.py
+m email.charset             C:\Program Files\Python311\Lib\email\charset.py
+m email.contentmanager      C:\Program Files\Python311\Lib\email\contentmanager.py
+m email.encoders            C:\Program Files\Python311\Lib\email\encoders.py
+m email.errors              C:\Program Files\Python311\Lib\email\errors.py
+m email.feedparser          C:\Program Files\Python311\Lib\email\feedparser.py
+m email.generator           C:\Program Files\Python311\Lib\email\generator.py
+m email.header              C:\Program Files\Python311\Lib\email\header.py
+m email.headerregistry      C:\Program Files\Python311\Lib\email\headerregistry.py
+m email.iterators           C:\Program Files\Python311\Lib\email\iterators.py
+m email.message             C:\Program Files\Python311\Lib\email\message.py
+m email.parser              C:\Program Files\Python311\Lib\email\parser.py
+m email.policy              C:\Program Files\Python311\Lib\email\policy.py
+m email.quoprimime          C:\Program Files\Python311\Lib\email\quoprimime.py
+m email.utils               C:\Program Files\Python311\Lib\email\utils.py
+P encodings                 C:\Program Files\Python311\Lib\encodings\__init__.py
+m encodings.aliases         C:\Program Files\Python311\Lib\encodings\aliases.py
+m encodings.ascii           C:\Program Files\Python311\Lib\encodings\ascii.py
+m encodings.base64_codec    C:\Program Files\Python311\Lib\encodings\base64_codec.py
+m encodings.big5            C:\Program Files\Python311\Lib\encodings\big5.py
+m encodings.big5hkscs       C:\Program Files\Python311\Lib\encodings\big5hkscs.py
+m encodings.bz2_codec       C:\Program Files\Python311\Lib\encodings\bz2_codec.py
+m encodings.charmap         C:\Program Files\Python311\Lib\encodings\charmap.py
+m encodings.cp037           C:\Program Files\Python311\Lib\encodings\cp037.py
+m encodings.cp1006          C:\Program Files\Python311\Lib\encodings\cp1006.py
+m encodings.cp1026          C:\Program Files\Python311\Lib\encodings\cp1026.py
+m encodings.cp1125          C:\Program Files\Python311\Lib\encodings\cp1125.py
+m encodings.cp1140          C:\Program Files\Python311\Lib\encodings\cp1140.py
+m encodings.cp1250          C:\Program Files\Python311\Lib\encodings\cp1250.py
+m encodings.cp1251          C:\Program Files\Python311\Lib\encodings\cp1251.py
+m encodings.cp1252          C:\Program Files\Python311\Lib\encodings\cp1252.py
+m encodings.cp1253          C:\Program Files\Python311\Lib\encodings\cp1253.py
+m encodings.cp1254          C:\Program Files\Python311\Lib\encodings\cp1254.py
+m encodings.cp1255          C:\Program Files\Python311\Lib\encodings\cp1255.py
+m encodings.cp1256          C:\Program Files\Python311\Lib\encodings\cp1256.py
+m encodings.cp1257          C:\Program Files\Python311\Lib\encodings\cp1257.py
+m encodings.cp1258          C:\Program Files\Python311\Lib\encodings\cp1258.py
+m encodings.cp273           C:\Program Files\Python311\Lib\encodings\cp273.py
+m encodings.cp424           C:\Program Files\Python311\Lib\encodings\cp424.py
+m encodings.cp437           C:\Program Files\Python311\Lib\encodings\cp437.py
+m encodings.cp500           C:\Program Files\Python311\Lib\encodings\cp500.py
+m encodings.cp720           C:\Program Files\Python311\Lib\encodings\cp720.py
+m encodings.cp737           C:\Program Files\Python311\Lib\encodings\cp737.py
+m encodings.cp775           C:\Program Files\Python311\Lib\encodings\cp775.py
+m encodings.cp850           C:\Program Files\Python311\Lib\encodings\cp850.py
+m encodings.cp852           C:\Program Files\Python311\Lib\encodings\cp852.py
+m encodings.cp855           C:\Program Files\Python311\Lib\encodings\cp855.py
+m encodings.cp856           C:\Program Files\Python311\Lib\encodings\cp856.py
+m encodings.cp857           C:\Program Files\Python311\Lib\encodings\cp857.py
+m encodings.cp858           C:\Program Files\Python311\Lib\encodings\cp858.py
+m encodings.cp860           C:\Program Files\Python311\Lib\encodings\cp860.py
+m encodings.cp861           C:\Program Files\Python311\Lib\encodings\cp861.py
+m encodings.cp862           C:\Program Files\Python311\Lib\encodings\cp862.py
+m encodings.cp863           C:\Program Files\Python311\Lib\encodings\cp863.py
+m encodings.cp864           C:\Program Files\Python311\Lib\encodings\cp864.py
+m encodings.cp865           C:\Program Files\Python311\Lib\encodings\cp865.py
+m encodings.cp866           C:\Program Files\Python311\Lib\encodings\cp866.py
+m encodings.cp869           C:\Program Files\Python311\Lib\encodings\cp869.py
+m encodings.cp874           C:\Program Files\Python311\Lib\encodings\cp874.py
+m encodings.cp875           C:\Program Files\Python311\Lib\encodings\cp875.py
+m encodings.cp932           C:\Program Files\Python311\Lib\encodings\cp932.py
+m encodings.cp949           C:\Program Files\Python311\Lib\encodings\cp949.py
+m encodings.cp950           C:\Program Files\Python311\Lib\encodings\cp950.py
+m encodings.euc_jis_2004    C:\Program Files\Python311\Lib\encodings\euc_jis_2004.py
+m encodings.euc_jisx0213    C:\Program Files\Python311\Lib\encodings\euc_jisx0213.py
+m encodings.euc_jp          C:\Program Files\Python311\Lib\encodings\euc_jp.py
+m encodings.euc_kr          C:\Program Files\Python311\Lib\encodings\euc_kr.py
+m encodings.gb18030         C:\Program Files\Python311\Lib\encodings\gb18030.py
+m encodings.gb2312          C:\Program Files\Python311\Lib\encodings\gb2312.py
+m encodings.gbk             C:\Program Files\Python311\Lib\encodings\gbk.py
+m encodings.hex_codec       C:\Program Files\Python311\Lib\encodings\hex_codec.py
+m encodings.hp_roman8       C:\Program Files\Python311\Lib\encodings\hp_roman8.py
+m encodings.hz              C:\Program Files\Python311\Lib\encodings\hz.py
+m encodings.idna            C:\Program Files\Python311\Lib\encodings\idna.py
+m encodings.iso2022_jp      C:\Program Files\Python311\Lib\encodings\iso2022_jp.py
+m encodings.iso2022_jp_1    C:\Program Files\Python311\Lib\encodings\iso2022_jp_1.py
+m encodings.iso2022_jp_2    C:\Program Files\Python311\Lib\encodings\iso2022_jp_2.py
+m encodings.iso2022_jp_2004 C:\Program Files\Python311\Lib\encodings\iso2022_jp_2004.py
+m encodings.iso2022_jp_3    C:\Program Files\Python311\Lib\encodings\iso2022_jp_3.py
+m encodings.iso2022_jp_ext  C:\Program Files\Python311\Lib\encodings\iso2022_jp_ext.py
+m encodings.iso2022_kr      C:\Program Files\Python311\Lib\encodings\iso2022_kr.py
+m encodings.iso8859_1       C:\Program Files\Python311\Lib\encodings\iso8859_1.py
+m encodings.iso8859_10      C:\Program Files\Python311\Lib\encodings\iso8859_10.py
+m encodings.iso8859_11      C:\Program Files\Python311\Lib\encodings\iso8859_11.py
+m encodings.iso8859_13      C:\Program Files\Python311\Lib\encodings\iso8859_13.py
+m encodings.iso8859_14      C:\Program Files\Python311\Lib\encodings\iso8859_14.py
+m encodings.iso8859_15      C:\Program Files\Python311\Lib\encodings\iso8859_15.py
+m encodings.iso8859_16      C:\Program Files\Python311\Lib\encodings\iso8859_16.py
+m encodings.iso8859_2       C:\Program Files\Python311\Lib\encodings\iso8859_2.py
+m encodings.iso8859_3       C:\Program Files\Python311\Lib\encodings\iso8859_3.py
+m encodings.iso8859_4       C:\Program Files\Python311\Lib\encodings\iso8859_4.py
+m encodings.iso8859_5       C:\Program Files\Python311\Lib\encodings\iso8859_5.py
+m encodings.iso8859_6       C:\Program Files\Python311\Lib\encodings\iso8859_6.py
+m encodings.iso8859_7       C:\Program Files\Python311\Lib\encodings\iso8859_7.py
+m encodings.iso8859_8       C:\Program Files\Python311\Lib\encodings\iso8859_8.py
+m encodings.iso8859_9       C:\Program Files\Python311\Lib\encodings\iso8859_9.py
+m encodings.johab           C:\Program Files\Python311\Lib\encodings\johab.py
+m encodings.koi8_r          C:\Program Files\Python311\Lib\encodings\koi8_r.py
+m encodings.koi8_t          C:\Program Files\Python311\Lib\encodings\koi8_t.py
+m encodings.koi8_u          C:\Program Files\Python311\Lib\encodings\koi8_u.py
+m encodings.kz1048          C:\Program Files\Python311\Lib\encodings\kz1048.py
+m encodings.latin_1         C:\Program Files\Python311\Lib\encodings\latin_1.py
+m encodings.mac_arabic      C:\Program Files\Python311\Lib\encodings\mac_arabic.py
+m encodings.mac_croatian    C:\Program Files\Python311\Lib\encodings\mac_croatian.py
+m encodings.mac_cyrillic    C:\Program Files\Python311\Lib\encodings\mac_cyrillic.py
+m encodings.mac_farsi       C:\Program Files\Python311\Lib\encodings\mac_farsi.py
+m encodings.mac_greek       C:\Program Files\Python311\Lib\encodings\mac_greek.py
+m encodings.mac_iceland     C:\Program Files\Python311\Lib\encodings\mac_iceland.py
+m encodings.mac_latin2      C:\Program Files\Python311\Lib\encodings\mac_latin2.py
+m encodings.mac_roman       C:\Program Files\Python311\Lib\encodings\mac_roman.py
+m encodings.mac_romanian    C:\Program Files\Python311\Lib\encodings\mac_romanian.py
+m encodings.mac_turkish     C:\Program Files\Python311\Lib\encodings\mac_turkish.py
+m encodings.mbcs            C:\Program Files\Python311\Lib\encodings\mbcs.py
+m encodings.oem             C:\Program Files\Python311\Lib\encodings\oem.py
+m encodings.palmos          C:\Program Files\Python311\Lib\encodings\palmos.py
+m encodings.ptcp154         C:\Program Files\Python311\Lib\encodings\ptcp154.py
+m encodings.punycode        C:\Program Files\Python311\Lib\encodings\punycode.py
+m encodings.quopri_codec    C:\Program Files\Python311\Lib\encodings\quopri_codec.py
+m encodings.raw_unicode_escape C:\Program Files\Python311\Lib\encodings\raw_unicode_escape.py
+m encodings.rot_13          C:\Program Files\Python311\Lib\encodings\rot_13.py
+m encodings.shift_jis       C:\Program Files\Python311\Lib\encodings\shift_jis.py
+m encodings.shift_jis_2004  C:\Program Files\Python311\Lib\encodings\shift_jis_2004.py
+m encodings.shift_jisx0213  C:\Program Files\Python311\Lib\encodings\shift_jisx0213.py
+m encodings.tis_620         C:\Program Files\Python311\Lib\encodings\tis_620.py
+m encodings.undefined       C:\Program Files\Python311\Lib\encodings\undefined.py
+m encodings.unicode_escape  C:\Program Files\Python311\Lib\encodings\unicode_escape.py
+m encodings.utf_16          C:\Program Files\Python311\Lib\encodings\utf_16.py
+m encodings.utf_16_be       C:\Program Files\Python311\Lib\encodings\utf_16_be.py
+m encodings.utf_16_le       C:\Program Files\Python311\Lib\encodings\utf_16_le.py
+m encodings.utf_32          C:\Program Files\Python311\Lib\encodings\utf_32.py
+m encodings.utf_32_be       C:\Program Files\Python311\Lib\encodings\utf_32_be.py
+m encodings.utf_32_le       C:\Program Files\Python311\Lib\encodings\utf_32_le.py
+m encodings.utf_7           C:\Program Files\Python311\Lib\encodings\utf_7.py
+m encodings.utf_8           C:\Program Files\Python311\Lib\encodings\utf_8.py
+m encodings.utf_8_sig       C:\Program Files\Python311\Lib\encodings\utf_8_sig.py
+m encodings.uu_codec        C:\Program Files\Python311\Lib\encodings\uu_codec.py
+m encodings.zlib_codec      C:\Program Files\Python311\Lib\encodings\zlib_codec.py
+m enum                      C:\Program Files\Python311\Lib\enum.py
+m errno                     
+m fileinput                 C:\Program Files\Python311\Lib\fileinput.py
+P flask                     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\__init__.py
+m flask.__main__            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\__main__.py
+m flask.app                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\app.py
+m flask.blueprints          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\blueprints.py
+m flask.cli                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\cli.py
+m flask.config              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\config.py
+m flask.ctx                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\ctx.py
+m flask.debughelpers        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\debughelpers.py
+m flask.globals             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\globals.py
+m flask.helpers             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\helpers.py
+P flask.json                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\json\__init__.py
+m flask.json.provider       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\json\provider.py
+m flask.json.tag            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\json\tag.py
+m flask.logging             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\logging.py
+m flask.sansio.app          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\sansio\app.py
+m flask.sansio.blueprints   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\sansio\blueprints.py
+m flask.sansio.scaffold     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\sansio\scaffold.py
+m flask.sessions            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\sessions.py
+m flask.signals             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\signals.py
+m flask.templating          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\templating.py
+m flask.testing             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\testing.py
+m flask.typing              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\typing.py
+m flask.views               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\views.py
+m flask.wrappers            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\flask\wrappers.py
+m fnmatch                   C:\Program Files\Python311\Lib\fnmatch.py
+m fractions                 C:\Program Files\Python311\Lib\fractions.py
+m ftplib                    C:\Program Files\Python311\Lib\ftplib.py
+m functools                 C:\Program Files\Python311\Lib\functools.py
+m gc                        
+m genericpath               C:\Program Files\Python311\Lib\genericpath.py
+m getopt                    C:\Program Files\Python311\Lib\getopt.py
+m getpass                   C:\Program Files\Python311\Lib\getpass.py
+m gettext                   C:\Program Files\Python311\Lib\gettext.py
+m glob                      C:\Program Files\Python311\Lib\glob.py
+m gzip                      C:\Program Files\Python311\Lib\gzip.py
+m hashlib                   C:\Program Files\Python311\Lib\hashlib.py
+m heapq                     C:\Program Files\Python311\Lib\heapq.py
+m hmac                      C:\Program Files\Python311\Lib\hmac.py
+P html                      C:\Program Files\Python311\Lib\html\__init__.py
+m html.entities             C:\Program Files\Python311\Lib\html\entities.py
+P http                      C:\Program Files\Python311\Lib\http\__init__.py
+m http.client               C:\Program Files\Python311\Lib\http\client.py
+m http.cookiejar            C:\Program Files\Python311\Lib\http\cookiejar.py
+m http.server               C:\Program Files\Python311\Lib\http\server.py
+P importlib                 C:\Program Files\Python311\Lib\importlib\__init__.py
+m importlib._abc            C:\Program Files\Python311\Lib\importlib\_abc.py
+m importlib.abc             C:\Program Files\Python311\Lib\importlib\abc.py
+m importlib.machinery       C:\Program Files\Python311\Lib\importlib\machinery.py
+P importlib.metadata        C:\Program Files\Python311\Lib\importlib\metadata\__init__.py
+m importlib.metadata._adapters C:\Program Files\Python311\Lib\importlib\metadata\_adapters.py
+m importlib.metadata._collections C:\Program Files\Python311\Lib\importlib\metadata\_collections.py
+m importlib.metadata._functools C:\Program Files\Python311\Lib\importlib\metadata\_functools.py
+m importlib.metadata._itertools C:\Program Files\Python311\Lib\importlib\metadata\_itertools.py
+m importlib.metadata._meta  C:\Program Files\Python311\Lib\importlib\metadata\_meta.py
+m importlib.metadata._text  C:\Program Files\Python311\Lib\importlib\metadata\_text.py
+m importlib.readers         C:\Program Files\Python311\Lib\importlib\readers.py
+P importlib.resources       C:\Program Files\Python311\Lib\importlib\resources\__init__.py
+m importlib.resources._adapters C:\Program Files\Python311\Lib\importlib\resources\_adapters.py
+m importlib.resources._common C:\Program Files\Python311\Lib\importlib\resources\_common.py
+m importlib.resources._itertools C:\Program Files\Python311\Lib\importlib\resources\_itertools.py
+m importlib.resources._legacy C:\Program Files\Python311\Lib\importlib\resources\_legacy.py
+m importlib.resources.abc   C:\Program Files\Python311\Lib\importlib\resources\abc.py
+m importlib.resources.readers C:\Program Files\Python311\Lib\importlib\resources\readers.py
+m importlib.util            C:\Program Files\Python311\Lib\importlib\util.py
+m inspect                   C:\Program Files\Python311\Lib\inspect.py
+m io                        C:\Program Files\Python311\Lib\io.py
+m ipaddress                 C:\Program Files\Python311\Lib\ipaddress.py
+m itertools                 
+P itsdangerous              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\__init__.py
+m itsdangerous._json        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\_json.py
+m itsdangerous.encoding     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\encoding.py
+m itsdangerous.exc          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\exc.py
+m itsdangerous.serializer   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\serializer.py
+m itsdangerous.signer       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\signer.py
+m itsdangerous.timed        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\timed.py
+m itsdangerous.url_safe     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\itsdangerous\url_safe.py
+P jinja2                    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\__init__.py
+m jinja2._identifier        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\_identifier.py
+m jinja2.async_utils        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\async_utils.py
+m jinja2.bccache            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\bccache.py
+m jinja2.compiler           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\compiler.py
+m jinja2.constants          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\constants.py
+m jinja2.debug              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\debug.py
+m jinja2.defaults           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\defaults.py
+m jinja2.environment        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\environment.py
+m jinja2.exceptions         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\exceptions.py
+m jinja2.ext                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\ext.py
+m jinja2.filters            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\filters.py
+m jinja2.idtracking         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\idtracking.py
+m jinja2.lexer              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\lexer.py
+m jinja2.loaders            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\loaders.py
+m jinja2.nodes              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\nodes.py
+m jinja2.optimizer          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\optimizer.py
+m jinja2.parser             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\parser.py
+m jinja2.runtime            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\runtime.py
+m jinja2.sandbox            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\sandbox.py
+m jinja2.tests              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\tests.py
+m jinja2.utils              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\utils.py
+m jinja2.visitor            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\jinja2\visitor.py
+P json                      C:\Program Files\Python311\Lib\json\__init__.py
+m json.decoder              C:\Program Files\Python311\Lib\json\decoder.py
+m json.encoder              C:\Program Files\Python311\Lib\json\encoder.py
+m json.scanner              C:\Program Files\Python311\Lib\json\scanner.py
+m json.tool                 C:\Program Files\Python311\Lib\json\tool.py
+P keyboard                  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\__init__.py
+m keyboard.__main__         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\__main__.py
+m keyboard._canonical_names C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_canonical_names.py
+m keyboard._darwinkeyboard  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_darwinkeyboard.py
+m keyboard._darwinmouse     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_darwinmouse.py
+m keyboard._generic         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_generic.py
+m keyboard._keyboard_event  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_keyboard_event.py
+m keyboard._keyboard_tests  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_keyboard_tests.py
+m keyboard._mouse_event     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_mouse_event.py
+m keyboard._mouse_tests     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_mouse_tests.py
+m keyboard._nixcommon       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_nixcommon.py
+m keyboard._nixkeyboard     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_nixkeyboard.py
+m keyboard._nixmouse        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_nixmouse.py
+m keyboard._winkeyboard     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_winkeyboard.py
+m keyboard._winmouse        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\_winmouse.py
+m keyboard.mouse            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\keyboard\mouse.py
+m keyword                   C:\Program Files\Python311\Lib\keyword.py
+m linecache                 C:\Program Files\Python311\Lib\linecache.py
+m locale                    C:\Program Files\Python311\Lib\locale.py
+P logging                   C:\Program Files\Python311\Lib\logging\__init__.py
+m lzma                      C:\Program Files\Python311\Lib\lzma.py
+P markupsafe                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\markupsafe\__init__.py
+m markupsafe._native        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\markupsafe\_native.py
+m markupsafe._speedups      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\markupsafe\_speedups.cp311-win_amd64.pyd
+m marshal                   
+m math                      
+m mimetypes                 C:\Program Files\Python311\Lib\mimetypes.py
+m mmap                      
+m msvcrt                    
+P multiprocessing           C:\Program Files\Python311\Lib\multiprocessing\__init__.py
+m multiprocessing.connection C:\Program Files\Python311\Lib\multiprocessing\connection.py
+m multiprocessing.context   C:\Program Files\Python311\Lib\multiprocessing\context.py
+P multiprocessing.dummy     C:\Program Files\Python311\Lib\multiprocessing\dummy\__init__.py
+m multiprocessing.dummy.connection C:\Program Files\Python311\Lib\multiprocessing\dummy\connection.py
+m multiprocessing.forkserver C:\Program Files\Python311\Lib\multiprocessing\forkserver.py
+m multiprocessing.heap      C:\Program Files\Python311\Lib\multiprocessing\heap.py
+m multiprocessing.managers  C:\Program Files\Python311\Lib\multiprocessing\managers.py
+m multiprocessing.pool      C:\Program Files\Python311\Lib\multiprocessing\pool.py
+m multiprocessing.popen_fork C:\Program Files\Python311\Lib\multiprocessing\popen_fork.py
+m multiprocessing.popen_forkserver C:\Program Files\Python311\Lib\multiprocessing\popen_forkserver.py
+m multiprocessing.popen_spawn_posix C:\Program Files\Python311\Lib\multiprocessing\popen_spawn_posix.py
+m multiprocessing.popen_spawn_win32 C:\Program Files\Python311\Lib\multiprocessing\popen_spawn_win32.py
+m multiprocessing.process   C:\Program Files\Python311\Lib\multiprocessing\process.py
+m multiprocessing.queues    C:\Program Files\Python311\Lib\multiprocessing\queues.py
+m multiprocessing.reduction C:\Program Files\Python311\Lib\multiprocessing\reduction.py
+m multiprocessing.resource_sharer C:\Program Files\Python311\Lib\multiprocessing\resource_sharer.py
+m multiprocessing.resource_tracker C:\Program Files\Python311\Lib\multiprocessing\resource_tracker.py
+m multiprocessing.shared_memory C:\Program Files\Python311\Lib\multiprocessing\shared_memory.py
+m multiprocessing.sharedctypes C:\Program Files\Python311\Lib\multiprocessing\sharedctypes.py
+m multiprocessing.spawn     C:\Program Files\Python311\Lib\multiprocessing\spawn.py
+m multiprocessing.synchronize C:\Program Files\Python311\Lib\multiprocessing\synchronize.py
+m multiprocessing.util      C:\Program Files\Python311\Lib\multiprocessing\util.py
+m netrc                     C:\Program Files\Python311\Lib\netrc.py
+m nt                        
+m ntpath                    C:\Program Files\Python311\Lib\ntpath.py
+m nturl2path                C:\Program Files\Python311\Lib\nturl2path.py
+m numbers                   C:\Program Files\Python311\Lib\numbers.py
+P numpy                     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\__init__.py
+m numpy.__config__          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\__config__.py
+m numpy._array_api_info     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_array_api_info.py
+P numpy._core               C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\__init__.py
+m numpy._core._add_newdocs  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_add_newdocs.py
+m numpy._core._add_newdocs_scalars C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_add_newdocs_scalars.py
+m numpy._core._asarray      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_asarray.py
+m numpy._core._dtype        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_dtype.py
+m numpy._core._dtype_ctypes C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_dtype_ctypes.py
+m numpy._core._exceptions   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_exceptions.py
+m numpy._core._internal     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_internal.py
+m numpy._core._methods      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_methods.py
+m numpy._core._multiarray_tests C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_tests.cp311-win_amd64.pyd
+m numpy._core._multiarray_umath C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_multiarray_umath.cp311-win_amd64.pyd
+m numpy._core._string_helpers C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_string_helpers.py
+m numpy._core._type_aliases C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_type_aliases.py
+m numpy._core._ufunc_config C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\_ufunc_config.py
+m numpy._core.arrayprint    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\arrayprint.py
+m numpy._core.defchararray  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\defchararray.py
+m numpy._core.einsumfunc    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\einsumfunc.py
+m numpy._core.fromnumeric   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\fromnumeric.py
+m numpy._core.function_base C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\function_base.py
+m numpy._core.getlimits     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\getlimits.py
+m numpy._core.memmap        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\memmap.py
+m numpy._core.multiarray    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\multiarray.py
+m numpy._core.numeric       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\numeric.py
+m numpy._core.numerictypes  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\numerictypes.py
+m numpy._core.overrides     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\overrides.py
+m numpy._core.printoptions  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\printoptions.py
+m numpy._core.records       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\records.py
+m numpy._core.shape_base    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\shape_base.py
+m numpy._core.strings       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\strings.py
+m numpy._core.umath         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_core\umath.py
+m numpy._distributor_init   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_distributor_init.py
+m numpy._expired_attrs_2_0  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_expired_attrs_2_0.py
+m numpy._globals            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_globals.py
+m numpy._pytesttester       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_pytesttester.py
+P numpy._typing             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\__init__.py
+m numpy._typing._add_docstring C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_add_docstring.py
+m numpy._typing._array_like C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_array_like.py
+m numpy._typing._char_codes C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_char_codes.py
+m numpy._typing._dtype_like C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_dtype_like.py
+m numpy._typing._nbit       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_nbit.py
+m numpy._typing._nbit_base  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_nbit_base.py
+m numpy._typing._nested_sequence C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_nested_sequence.py
+m numpy._typing._scalars    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_scalars.py
+m numpy._typing._shape      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_shape.py
+m numpy._typing._ufunc      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_typing\_ufunc.py
+P numpy._utils              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_utils\__init__.py
+m numpy._utils._convertions C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_utils\_convertions.py
+m numpy._utils._inspect     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\_utils\_inspect.py
+P numpy.char                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\char\__init__.py
+P numpy.core                C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\core\__init__.py
+m numpy.core._utils         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\core\_utils.py
+P numpy.ctypeslib           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ctypeslib\__init__.py
+m numpy.ctypeslib._ctypeslib C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ctypeslib\_ctypeslib.py
+m numpy.dtypes              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\dtypes.py
+m numpy.exceptions          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\exceptions.py
+P numpy.fft                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\__init__.py
+m numpy.fft._helper         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\_helper.py
+m numpy.fft._pocketfft      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\_pocketfft.py
+m numpy.fft._pocketfft_umath C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\fft\_pocketfft_umath.cp311-win_amd64.pyd
+P numpy.lib                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\__init__.py
+m numpy.lib._array_utils_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_array_utils_impl.py
+m numpy.lib._arraypad_impl  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_arraypad_impl.py
+m numpy.lib._arraysetops_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_arraysetops_impl.py
+m numpy.lib._arrayterator_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_arrayterator_impl.py
+m numpy.lib._datasource     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_datasource.py
+m numpy.lib._format_impl    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_format_impl.py
+m numpy.lib._function_base_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_function_base_impl.py
+m numpy.lib._histograms_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_histograms_impl.py
+m numpy.lib._index_tricks_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_index_tricks_impl.py
+m numpy.lib._iotools        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_iotools.py
+m numpy.lib._nanfunctions_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_nanfunctions_impl.py
+m numpy.lib._npyio_impl     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_npyio_impl.py
+m numpy.lib._polynomial_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_polynomial_impl.py
+m numpy.lib._scimath_impl   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_scimath_impl.py
+m numpy.lib._shape_base_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_shape_base_impl.py
+m numpy.lib._stride_tricks_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_stride_tricks_impl.py
+m numpy.lib._twodim_base_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_twodim_base_impl.py
+m numpy.lib._type_check_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_type_check_impl.py
+m numpy.lib._ufunclike_impl C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_ufunclike_impl.py
+m numpy.lib._utils_impl     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_utils_impl.py
+m numpy.lib._version        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\_version.py
+m numpy.lib.array_utils     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\array_utils.py
+m numpy.lib.format          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\format.py
+m numpy.lib.introspect      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\introspect.py
+m numpy.lib.mixins          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\mixins.py
+m numpy.lib.npyio           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\npyio.py
+m numpy.lib.scimath         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\scimath.py
+m numpy.lib.stride_tricks   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\lib\stride_tricks.py
+P numpy.linalg              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\__init__.py
+m numpy.linalg._linalg      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\_linalg.py
+m numpy.linalg._umath_linalg C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\_umath_linalg.cp311-win_amd64.pyd
+m numpy.linalg.lapack_lite  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\linalg\lapack_lite.cp311-win_amd64.pyd
+P numpy.ma                  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\__init__.py
+m numpy.ma.core             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\core.py
+m numpy.ma.extras           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\extras.py
+m numpy.ma.mrecords         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\ma\mrecords.py
+m numpy.matlib              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\matlib.py
+P numpy.matrixlib           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\matrixlib\__init__.py
+m numpy.matrixlib.defmatrix C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\matrixlib\defmatrix.py
+P numpy.polynomial          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\__init__.py
+m numpy.polynomial._polybase C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\_polybase.py
+m numpy.polynomial.chebyshev C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\chebyshev.py
+m numpy.polynomial.hermite  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\hermite.py
+m numpy.polynomial.hermite_e C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\hermite_e.py
+m numpy.polynomial.laguerre C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\laguerre.py
+m numpy.polynomial.legendre C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\legendre.py
+m numpy.polynomial.polynomial C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\polynomial.py
+m numpy.polynomial.polyutils C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\polynomial\polyutils.py
+P numpy.random              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\__init__.py
+m numpy.random._bounded_integers C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_bounded_integers.cp311-win_amd64.pyd
+m numpy.random._common      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_common.cp311-win_amd64.pyd
+m numpy.random._generator   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_generator.cp311-win_amd64.pyd
+m numpy.random._mt19937     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_mt19937.cp311-win_amd64.pyd
+m numpy.random._pcg64       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_pcg64.cp311-win_amd64.pyd
+m numpy.random._philox      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_philox.cp311-win_amd64.pyd
+m numpy.random._pickle      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_pickle.py
+m numpy.random._sfc64       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\_sfc64.cp311-win_amd64.pyd
+m numpy.random.bit_generator C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\bit_generator.cp311-win_amd64.pyd
+m numpy.random.mtrand       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\random\mtrand.cp311-win_amd64.pyd
+P numpy.rec                 C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\rec\__init__.py
+P numpy.strings             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\strings\__init__.py
+P numpy.typing              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\typing\__init__.py
+m numpy.version             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\numpy\version.py
+m opcode                    C:\Program Files\Python311\Lib\opcode.py
+m operator                  C:\Program Files\Python311\Lib\operator.py
+m os                        C:\Program Files\Python311\Lib\os.py
+m pathlib                   C:\Program Files\Python311\Lib\pathlib.py
+m pickle                    C:\Program Files\Python311\Lib\pickle.py
+m pkgutil                   C:\Program Files\Python311\Lib\pkgutil.py
+m platform                  C:\Program Files\Python311\Lib\platform.py
+m posixpath                 C:\Program Files\Python311\Lib\posixpath.py
+m pprint                    C:\Program Files\Python311\Lib\pprint.py
+m py_compile                C:\Program Files\Python311\Lib\py_compile.py
+m pydoc                     C:\Program Files\Python311\Lib\pydoc.py
+P pydoc_data                C:\Program Files\Python311\Lib\pydoc_data\__init__.py
+m pydoc_data.topics         C:\Program Files\Python311\Lib\pydoc_data\topics.py
+m pyexpat                   C:\Program Files\Python311\DLLs\pyexpat.pyd
+P pystray                   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\__init__.py
+m pystray._appindicator     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_appindicator.py
+m pystray._base             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_base.py
+m pystray._darwin           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_darwin.py
+m pystray._dummy            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_dummy.py
+m pystray._gtk              C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_gtk.py
+m pystray._info             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_info.py
+P pystray._util             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_util\__init__.py
+m pystray._util.gtk         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_util\gtk.py
+m pystray._util.notify_dbus C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_util\notify_dbus.py
+m pystray._util.win32       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_util\win32.py
+m pystray._win32            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_win32.py
+m pystray._xorg             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\pystray\_xorg.py
+m queue                     C:\Program Files\Python311\Lib\queue.py
+m quopri                    C:\Program Files\Python311\Lib\quopri.py
+m random                    C:\Program Files\Python311\Lib\random.py
+P re                        C:\Program Files\Python311\Lib\re\__init__.py
+m re._casefix               C:\Program Files\Python311\Lib\re\_casefix.py
+m re._compiler              C:\Program Files\Python311\Lib\re\_compiler.py
+m re._constants             C:\Program Files\Python311\Lib\re\_constants.py
+m re._parser                C:\Program Files\Python311\Lib\re\_parser.py
+m reprlib                   C:\Program Files\Python311\Lib\reprlib.py
+m rlcompleter               C:\Program Files\Python311\Lib\rlcompleter.py
+m runpy                     C:\Program Files\Python311\Lib\runpy.py
+m secrets                   C:\Program Files\Python311\Lib\secrets.py
+m select                    C:\Program Files\Python311\DLLs\select.pyd
+m selectors                 C:\Program Files\Python311\Lib\selectors.py
+m shlex                     C:\Program Files\Python311\Lib\shlex.py
+m shutil                    C:\Program Files\Python311\Lib\shutil.py
+m signal                    C:\Program Files\Python311\Lib\signal.py
+m six                       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\six.py
+m socket                    C:\Program Files\Python311\Lib\socket.py
+m socketserver              C:\Program Files\Python311\Lib\socketserver.py
+P sqlite3                   C:\Program Files\Python311\Lib\sqlite3\__init__.py
+m sqlite3.dbapi2            C:\Program Files\Python311\Lib\sqlite3\dbapi2.py
+m sqlite3.dump              C:\Program Files\Python311\Lib\sqlite3\dump.py
+m ssl                       C:\Program Files\Python311\Lib\ssl.py
+m stat                      C:\Program Files\Python311\Lib\stat.py
+m statistics                C:\Program Files\Python311\Lib\statistics.py
+m string                    C:\Program Files\Python311\Lib\string.py
+m stringprep                C:\Program Files\Python311\Lib\stringprep.py
+m struct                    C:\Program Files\Python311\Lib\struct.py
+m subprocess                C:\Program Files\Python311\Lib\subprocess.py
+m sys                       
+m sysconfig                 C:\Program Files\Python311\Lib\sysconfig.py
+m tarfile                   C:\Program Files\Python311\Lib\tarfile.py
+m tempfile                  C:\Program Files\Python311\Lib\tempfile.py
+m textwrap                  C:\Program Files\Python311\Lib\textwrap.py
+m threading                 C:\Program Files\Python311\Lib\threading.py
+m time                      
+m token                     C:\Program Files\Python311\Lib\token.py
+m tokenize                  C:\Program Files\Python311\Lib\tokenize.py
+m traceback                 C:\Program Files\Python311\Lib\traceback.py
+m tracemalloc               C:\Program Files\Python311\Lib\tracemalloc.py
+m tty                       C:\Program Files\Python311\Lib\tty.py
+m types                     C:\Program Files\Python311\Lib\types.py
+m typing                    C:\Program Files\Python311\Lib\typing.py
+m typing_extensions         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\typing_extensions.py
+m unicodedata               C:\Program Files\Python311\DLLs\unicodedata.pyd
+P urllib                    C:\Program Files\Python311\Lib\urllib\__init__.py
+m urllib.error              C:\Program Files\Python311\Lib\urllib\error.py
+m urllib.parse              C:\Program Files\Python311\Lib\urllib\parse.py
+m urllib.request            C:\Program Files\Python311\Lib\urllib\request.py
+m urllib.response           C:\Program Files\Python311\Lib\urllib\response.py
+m uuid                      C:\Program Files\Python311\Lib\uuid.py
+m warnings                  C:\Program Files\Python311\Lib\warnings.py
+m weakref                   C:\Program Files\Python311\Lib\weakref.py
+m webbrowser                C:\Program Files\Python311\Lib\webbrowser.py
+P werkzeug                  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\__init__.py
+m werkzeug._internal        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\_internal.py
+m werkzeug._reloader        C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\_reloader.py
+P werkzeug.datastructures   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\__init__.py
+m werkzeug.datastructures.accept C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\accept.py
+m werkzeug.datastructures.auth C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\auth.py
+m werkzeug.datastructures.cache_control C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\cache_control.py
+m werkzeug.datastructures.csp C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\csp.py
+m werkzeug.datastructures.etag C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\etag.py
+m werkzeug.datastructures.file_storage C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\file_storage.py
+m werkzeug.datastructures.headers C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\headers.py
+m werkzeug.datastructures.mixins C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\mixins.py
+m werkzeug.datastructures.range C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\range.py
+m werkzeug.datastructures.structures C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\datastructures\structures.py
+P werkzeug.debug            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\__init__.py
+m werkzeug.debug.console    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\console.py
+m werkzeug.debug.repr       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\repr.py
+m werkzeug.debug.tbtools    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\debug\tbtools.py
+m werkzeug.exceptions       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\exceptions.py
+m werkzeug.formparser       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\formparser.py
+m werkzeug.http             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\http.py
+m werkzeug.local            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\local.py
+P werkzeug.middleware       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\middleware\__init__.py
+m werkzeug.middleware.shared_data C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\middleware\shared_data.py
+P werkzeug.routing          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\__init__.py
+m werkzeug.routing.converters C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\converters.py
+m werkzeug.routing.exceptions C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\exceptions.py
+m werkzeug.routing.map      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\map.py
+m werkzeug.routing.matcher  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\matcher.py
+m werkzeug.routing.rules    C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\routing\rules.py
+P werkzeug.sansio           C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\__init__.py
+m werkzeug.sansio.http      C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\http.py
+m werkzeug.sansio.multipart C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\multipart.py
+m werkzeug.sansio.request   C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\request.py
+m werkzeug.sansio.response  C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\response.py
+m werkzeug.sansio.utils     C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\sansio\utils.py
+m werkzeug.security         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\security.py
+m werkzeug.serving          C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\serving.py
+m werkzeug.test             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\test.py
+m werkzeug.urls             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\urls.py
+m werkzeug.user_agent       C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\user_agent.py
+m werkzeug.utils            C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\utils.py
+P werkzeug.wrappers         C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\wrappers\__init__.py
+m werkzeug.wrappers.request C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\wrappers\request.py
+m werkzeug.wrappers.response C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\wrappers\response.py
+m werkzeug.wsgi             C:\Users\aspee\AppData\Roaming\Python\Python311\site-packages\werkzeug\wsgi.py
+m winreg                    
+P xml                       C:\Program Files\Python311\Lib\xml\__init__.py
+P xml.etree                 C:\Program Files\Python311\Lib\xml\etree\__init__.py
+m xml.etree.ElementPath     C:\Program Files\Python311\Lib\xml\etree\ElementPath.py
+m xml.etree.ElementTree     C:\Program Files\Python311\Lib\xml\etree\ElementTree.py
+P xml.parsers               C:\Program Files\Python311\Lib\xml\parsers\__init__.py
+m xml.parsers.expat         C:\Program Files\Python311\Lib\xml\parsers\expat.py
+P xmlrpc                    C:\Program Files\Python311\Lib\xmlrpc\__init__.py
+m xmlrpc.client             C:\Program Files\Python311\Lib\xmlrpc\client.py
+m zipfile                   C:\Program Files\Python311\Lib\zipfile.py
+m zipimport                 C:\Program Files\Python311\Lib\zipimport.py
+m zlib                      
+Missing modules:
+?  imported from werkzeug.http
+? AppKit imported from keyboard._darwinkeyboard, pystray._darwin
+? Foundation imported from pystray._darwin
+? PyObjCTools.MachSignals imported from pystray._darwin
+? Quartz imported from keyboard._darwinkeyboard, keyboard._darwinmouse
+? Xlib.XK imported from pystray._xorg
+? Xlib.display imported from pystray._xorg
+? Xlib.threaded imported from pystray._xorg
+? asgiref.sync imported from flask.app
+? bcrypt imported from cryptography.hazmat.primitives.serialization.ssh
+? dotenv imported from flask.cli
+? gi imported from pystray._appindicator, pystray._gtk, pystray._util.gtk, pystray._util.notify_dbus
+? gi.repository imported from pystray._appindicator, pystray._gtk, pystray._util.gtk, pystray._util.notify_dbus
+? objc imported from pystray._darwin
+? unittest imported from keyboard._keyboard_tests, keyboard._mouse_tests
+? watchdog.events imported from werkzeug._reloader
+? watchdog.observers imported from werkzeug._reloader
+This is not necessarily a problem - the modules may not be needed on this platform.
+
+Missing dependencies:
+? api-ms-win-core-path-l1-1-0.dll
+? api-ms-win-core-synch-l1-2-0.dll
+? api-ms-win-crt-conio-l1-1-0.dll
+? api-ms-win-crt-convert-l1-1-0.dll
+? api-ms-win-crt-environment-l1-1-0.dll
+? api-ms-win-crt-filesystem-l1-1-0.dll
+? api-ms-win-crt-heap-l1-1-0.dll
+? api-ms-win-crt-locale-l1-1-0.dll
+? api-ms-win-crt-math-l1-1-0.dll
+? api-ms-win-crt-private-l1-1-0.dll
+? api-ms-win-crt-process-l1-1-0.dll
+? api-ms-win-crt-runtime-l1-1-0.dll
+? api-ms-win-crt-stdio-l1-1-0.dll
+? api-ms-win-crt-string-l1-1-0.dll
+? api-ms-win-crt-time-l1-1-0.dll
+? api-ms-win-crt-utility-l1-1-0.dll
+This is not necessarily a problem - the dependencies may not be needed on this platform.
+

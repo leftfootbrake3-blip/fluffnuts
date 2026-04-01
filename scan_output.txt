@@ -1,0 +1,5 @@
+Total lines: 1485
+
+=== Searching for unescaped apostrophes in JS single-quoted strings ===
+
+Total potential issues: 0
