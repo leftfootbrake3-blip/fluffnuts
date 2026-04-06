@@ -1,0 +1,57 @@
+# Build output
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Build logs and debug output
+*_out.txt
+*_err.txt
+*_log.txt
+build_*.txt
+syntax_*.txt
+debug_*.txt
+check.txt
+scan_output.txt
+zip_contents.txt
+pyc_extract.txt
+recovered_html.txt
+exe_err.txt
+
+# Patch/recovery scripts (one-time use)
+patch*.py
+fix_*.py
+reconstruct*.py
+recover*.py
+extract*.py
+decompiled_output.py
+try_decompile.py
+do_build*.py
+check_syntax.py
+debug_html.py
+db_check.py
+db_check.txt
+run_decompile.ps1
+apply_all_patches.py
+scan_js.py
+verify.py
+run_test.py
+test_sdd.py
+test_api.py
+api_test.txt
+
+# Databases (user data, not for repo)
+*.db
+
+# Temp/extracted
+extracted/
+files.zip
+index.html
+
+# Duplicate/backup images
+fluffnutspro_logo - Copy.png
+fluffnutspro_styles.png
+fluffnutspro_icon_sheet.png
+cocky.png
+download.png

@@ -1,5 +1,0 @@
-setup.py
-FluffnutsPro.egg-info/PKG-INFO
-FluffnutsPro.egg-info/SOURCES.txt
-FluffnutsPro.egg-info/dependency_links.txt
-FluffnutsPro.egg-info/top_level.txt
