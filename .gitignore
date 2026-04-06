@@ -55,3 +55,7 @@ fluffnutspro_styles.png
 fluffnutspro_icon_sheet.png
 cocky.png
 download.png
+
+# Temp git/build helper scripts
+git_*.py
+git_*.txt
